@@ -1,0 +1,46 @@
+.body{
+    background-color: red;
+}
+.header{
+  border-style: outset;
+  border-color: black;
+}
+.table1{
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+.row1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header3{
+    text-align: center;
+}
+.row3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row5{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row6{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row7{
+    font-family: Arial, Helvetica, sans-serif
+}
+.row8{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row9{
+    font-family: Arial, Helvetica, sans-serif;
+}
